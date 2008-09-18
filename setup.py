@@ -27,6 +27,7 @@ setup (name='lwes',
        version = '0.0.1',
        author = "Michael P. Lum",
        description = """Python bindings for the Light Weight Event System""",
+       url='http://www.lwes.org',
        ext_modules = [lwes_module],
        py_modules = ["lwes"],
       )
