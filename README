@@ -1,0 +1,9 @@
+This package provides Python bindings for the Light Weight Event System.
+
+This module is installed using Python's distutils package.  In order to
+build it, use the following command:
+
+$ python setup.py build_ext
+
+This will build a module that can be installed as a Python extension.
+
